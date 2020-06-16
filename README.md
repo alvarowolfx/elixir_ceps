@@ -14,3 +14,7 @@ Takes around 2~3 seconds to run.
 ## Demo
 
 [![asciicast](https://asciinema.org/a/mKKDdZ33oY1IwIZfJP8M0Y6dH.png)](https://asciinema.org/a/mKKDdZ33oY1IwIZfJP8M0Y6dH)
+
+### References
+
+- Inspired by this repository : [Spacedevsd/goRequestCeps](https://github.com/Spacedevsd/goRequestCeps)
