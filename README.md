@@ -1,6 +1,6 @@
 # Elixir Ceps
 
-Exilir Experiment to read a list of Brazilian Zipcodes from a file, do a request to an API on each zicode and the results for each zicode locally on a file.
+An Elixir experiment to read a list of Brazilian Zipcodes from a file, do a request to an API on each zicode and the results for each zicode locally on a file.
 
 ## Running
 
